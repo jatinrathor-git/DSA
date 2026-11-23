@@ -14,7 +14,7 @@ A journey of solving Data Structures and Algorithms problems using Java. This re
 - Java
 
 ## 📚 Platforms
-- [LeetCode]([YOUR_LEETCODE_LINK](https://leetcode.com/problem-list/073urpss/))
+- [LeetCode]((https://leetcode.com/problem-list/073urpss/))
 - [GeeksforGeeks](YOUR_GFG_LINK)
 
 ## 🗂️ Topics Covered

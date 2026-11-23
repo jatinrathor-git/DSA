@@ -1,17 +1,15 @@
 # DSA
 A consistent journey of learning Data Structures and Algorithms using Java.
 This repository contains my solutions to coding problems from LeetCode and GeeksforGeeks, along with approaches and complexity analysis.
-🧑‍💻 Languages
+**Languages** :- Java
 
-Java
-
-📚 Platforms
-
+ **Platforms**
+  
 LeetCode
 
 GeeksforGeeks
 
-📂 Topics Covered
+# Topics Covered
 
 Arrays
 

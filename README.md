@@ -1,53 +1,44 @@
-# DSA
-A consistent journey of learning Data Structures and Algorithms using Java.
-This repository contains my solutions to coding problems from LeetCode and GeeksforGeeks, along with approaches and complexity analysis.
-# Languages 
-Java
 
-# Platforms
-  
-LeetCode
+# Java DSA Journey 🚀
 
-GeeksforGeeks
+A journey of solving Data Structures and Algorithms problems using Java. This repository contains my solutions from LeetCode and GeeksforGeeks, focusing on problem-solving, optimized approaches, and understanding the logic behind every solution.
 
-# Topics Covered
+## 🎯 Goals
+- Strengthen problem-solving and logical thinking.
+- Implement DSA concepts using Java.
+- Practice consistently and improve coding skills.
+- Understand time and space complexity.
+- Prepare for coding interviews and placements.
 
-Arrays
+## 💻 Language
+- Java
 
-Strings
+## 📚 Platforms
+- [LeetCode](YOUR_LEETCODE_LINK)
+- [GeeksforGeeks](YOUR_GFG_LINK)
 
-Sorting
+## 🗂️ Topics Covered
+- Arrays & Strings
+- Sorting & Searching
+- Binary Search
+- Recursion & Backtracking
+- Linked Lists
+- Stack & Queue
+- Trees & Binary Search Trees
+- Graphs
+- Greedy Algorithms
+- Dynamic Programming
 
-Binary Search
+## 📊 Progress Tracker
 
-Recursion
+| Platform | Problems Solved |
+|----------|---------------:|
+| LeetCode | 0 |
+| GeeksforGeeks | 0 |
+| **Total** | **0** |
 
-Backtracking
+## 📅 Daily Practice
 
-Linked Lists
+Solutions are added regularly as I solve new problems, learn new concepts, and explore better approaches.
 
-Stack & Queue
-
-Trees & Binary Search Trees
-
-Graphs
-
-Dynamic Programming
-
-# Progress Tracker
-
-Platform
-
-Problems Solved
-
-LeetCode
-
-0
-
-GeeksforGeeks
-
-0
-
-Total
-
-0
+> Consistency over perfection. One problem at a time.
